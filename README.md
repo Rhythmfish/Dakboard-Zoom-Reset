@@ -180,7 +180,7 @@ ps aux | grep touch-reset-daemon.py
 
 ---
 
-## ✅ Notes and Successes
+## ✅ Notes and Specifications
 
 * **Touchscreen detection**: Confirmed working with `/usr/libexec/libinput/libinput-debug-events`.
 * **Python daemon**: Detects touch release and triggers a delayed zoom reset.
