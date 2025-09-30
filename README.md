@@ -4,6 +4,8 @@ This step-by-step guide documents the setup of a Python daemon that automaticall
 
 # Step By Step
 
+<code style="color : name_color">! This guide assumes the user is relatively familiar with SSH, linux, and a CLI. If not, [**start here**](https://dakboard.freshdesk.com/support/solutions/articles/35000222207-dakos-ssl-ssh-configuration-and-use)</code>
+
 ## Step 1: Install Necessary Packages
 
 1. Update your package lists:
