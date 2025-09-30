@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/python3 /usr/local/bin/touch-reset-daemon.py --device /dev/input/event5 --reset-cmd /usr/local/bin/reset-zoom.sh --delay 5
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Touch Reset Daemon
+Comment=Reset zoom after touch release
