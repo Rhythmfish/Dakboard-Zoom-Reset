@@ -2,7 +2,7 @@
 
 This step-by-step guide documents the setup of a Python daemon that automatically resets zoom (Ctrl+0) on a DakBoard kiosk touchscreen after a configurable delay when the user lifts their finger. It uses the GUI autostart method for reliable operation at boot and provides detailed instructions for environment setup, Python daemon creation, zoom reset scripting, autostart configuration, and verification.
 
----
+# Step By Step
 
 ## Step 1: Install Necessary Packages
 
